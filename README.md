@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,mongodb,typescript,javascript,tailwind,html,css,redux,git,github,vercel,postman,jwt,figma,miro,jira" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,react,typescript,javascript,tailwind,html,css,redux,git,github,vercel,postman,jwt,figma,miro,jira" />
 </p>
 
 ---
