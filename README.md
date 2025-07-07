@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- Profile Header GIF or Image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-<!--
-**Farzadsarfaraz/Farzadsarfaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there 👋, I'm Farzad Sarfaraz</h1>
+<h3 align="center">💼 Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+- 👨‍💻 Passionate full-stack developer crafting robust and modern web applications  
+- 🧠 Specialized in **React**, **Node.js**, **MongoDB**, **TypeScript**, and the **MERN Stack**  
+- 💬 I love learning new technologies and applying them in real-world projects  
+- 🤝 Open to collaboration on modern JavaScript and full-stack projects  
+- 📫 Reach me at: **farzadsarfarazwvo@gmail.com**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript,javascript,tailwind,mysql,html,css,redux,vite,git,github,vscode,jwt" />
+</p>
+
+---
+
+## 💼 Projects I’m Proud Of
+
+- 📝 **Academic Inquiry Manager**  
+  A full-stack system developed for **HFP Hochschule für Politik München** to streamline and simplify academic inquiries.  
+  **Tech**: React.js, Node.js, MongoDB, Tailwind CSS  
+
+- 💼 **Portfolio Website**  
+  A smooth, animated portfolio showcasing my skills with a user-friendly interface.  
+  **Tech**: React.js, Framer Motion, Tailwind CSS  
+
+- 🛒 **E-Commerce Platform**  
+  Full-featured e-commerce web app with admin panel, authentication, and responsive design.  
+  **Tech**: React.js, Redux Toolkit, Node.js, Express, MongoDB, Tailwind CSS  
+
+---
+
+## ✨ Favorite Quote
+
+> _"The best way to predict the future is to invent it."_
+
+---
+
+## 🎌 Favorite Anime Shoutout
+
+> _"Hard work beats talent when talent doesn't work hard."_
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:farzadsarfarazwvo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/farzad-sarfaraz-04871421a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
