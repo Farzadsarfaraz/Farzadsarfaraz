@@ -3,17 +3,16 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Hey there 👋, I'm Farzad </h1>
-<h3 align="center">💼 Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm Farzad</h1>
+<h3 align="center">💼 Full Stack Web Developer and SAP ABAP Developer</h3>
 
 ---
 
 ## 💡 About Me
 
 - 👨‍💻 Passionate full-stack developer crafting robust and modern web applications  
-- 🧠 Specialized in **React**, **TypeScript**  **Node.js**, **MongoDB** **MySQL** and
 - 💬 I love learning new technologies and applying them in real-world projects  
-- 🤝 Open to collaboration on modern JavaScript and full-stack projects  
+- 🤝 Open to collaboration on modern full-stack projects
 - 📫 Reach me at: **farzadsarfarazwvo@gmail.com**
 
 ---
@@ -21,7 +20,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,react,typescript,javascript,tailwind,html,css,redux,git,github,vercel,postman,jwt,figma,miro,jira" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,react,typescript,javascript,tailwind,html,css,redux,git,github,vercel,postman,jwt,figma,miro,jira,sap" />
 </p>
 
 ---
