@@ -28,9 +28,12 @@
 ## 💼 Projects I’m Proud Of
 
 - 📝 **Academic Inquiry Manager**  
-  A full-stack system developed for **HFP Hochschule für Politik München** to streamline and simplify academic inquiries.
-  <img src="https://github.com/Farzadsarfaraz/Farzadsarfaraz/blob/main/1749288724039.jpeg" width="300" />
-  **Tech**: React.js, Node.js, MongoDB, Tailwind CSS
+  A full-stack system developed for **HFP Hochschule für Politik München** to streamline and simplify academic inquiries.  
+  **Tech Stack**: React.js · Node.js · MongoDB · Tailwind CSS
+
+  <p align="center">
+    <img src="https://github.com/Farzadsarfaraz/Farzadsarfaraz/raw/main/1749288724039.jpeg" width="600" alt="Academic Inquiry Manager Screenshot"/>
+  </p>
 
 - 🛒 **E-Commerce Platform**  
   Full-featured e-commerce web app with admin panel, authentication, and responsive design.  
