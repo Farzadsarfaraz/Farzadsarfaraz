@@ -31,7 +31,7 @@
   A full-stack system developed for **HFP Hochschule für Politik München** to streamline and simplify academic inquiries.  
   **Tech**: React.js, Node.js, MongoDB, Tailwind CSS
 
-  - 🛒 **E-Commerce Platform**  
+- 🛒 **E-Commerce Platform**  
   Full-featured e-commerce web app with admin panel, authentication, and responsive design.  
   🔗 [Live Demo](https://top-conline-93nt-git-main-farzads-projects-ced4196b.vercel.app/)  
   **Tech**: React.js, Redux Toolkit, Node.js, Express, MongoDB, Tailwind CSS  
