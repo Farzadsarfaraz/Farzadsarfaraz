@@ -29,7 +29,7 @@
 
 - 📝 **Academic Inquiry Manager**  
   A full-stack system developed for **HFP Hochschule für Politik München** to streamline and simplify academic inquiries.
-  <img src="https://github.com/Farzadsarfaraz/Farzadsarfaraz/blob/main/image.png?raw=true" width="300" />
+  <img src="https://github.com/Farzadsarfaraz/Farzadsarfaraz/blob/main/1749288724039.jpeg" width="300" />
   **Tech**: React.js, Node.js, MongoDB, Tailwind CSS
 
 - 🛒 **E-Commerce Platform**  
