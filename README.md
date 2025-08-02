@@ -31,8 +31,8 @@
   A full-stack system developed for **HFP Hochschule für Politik München** to streamline and simplify academic inquiries.  
   **Tech Stack**: React.js · Node.js · MongoDB · Tailwind CSS
 
-  <p align="center">
-    <img src="https://github.com/Farzadsarfaraz/Farzadsarfaraz/raw/main/1749288724039.jpeg" width="200" alt="image"/>
+  <p>
+    <img src="https://github.com/Farzadsarfaraz/Farzadsarfaraz/raw/main/1749288724039.jpeg" width="300" alt="image"/>
   </p>
 
 - 🛒 **E-Commerce Platform**  
