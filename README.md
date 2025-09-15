@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,react,typescript,javascript,tailwind,html,css,redux,git,github,vercel,postman,jwt,figma,miro,jira,sap" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,react,nextjs,typescript,javascript,tailwind,html,css,redux,git,github,vercel,postman,jwt,figma,miro,jira,sap,python" />
 </p>
 
 ---
