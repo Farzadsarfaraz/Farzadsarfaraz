@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hey there 👋, I'm Farzad</h1>
-<h3 align="center">💼 Full Stack Web Developer and SAP ABAP Developer</h3>
+<h3 align="center">💼 Full Stack Developer and SAP ABAP Developer</h3>
 
 ---
 
