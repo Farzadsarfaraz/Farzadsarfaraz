@@ -46,6 +46,29 @@
   **Tech**: React.js, Framer Motion, Tailwind CSS  
 
 ---
+📈 **Influencer Management Platform**
+
+A modern web application that allows brands to discover, filter, review, and manage influencer profiles efficiently. Built for real-world SaaS use cases, the platform features secure authentication, advanced search filters, favorites management, and detailed influencer metrics.
+
+ 🔗 [Live Demo](https://influencer-pro-main.vercel.app/)  
+
+Tech Stack: Next.js (App Router) · React Server Components · Tailwind CSS · PostgreSQL · Prisma ORM · NextAuth, NEON
+
+<p> <img src="https://raw.githubusercontent.com/Farzadsarfaraz/influencer-pro-main/main/public/demo.png" width="300" alt="Influencer Management Platform Screenshot"/> </p>
+
+Highlights:
+
+Full authentication using NextAuth (Credentials Provider)
+
+Advanced influencer search with multiple filters (topic, platform, location, followers, etc.)
+
+Favorites management for easy influencer tracking
+
+Clean, responsive UI built with Tailwind CSS
+
+PostgreSQL database managed via Prisma ORM
+
+---
 
 ## ✨ Favorite Quote
 
