@@ -45,8 +45,7 @@
   🔗 [Live Demo](https://portfolio-f-nine.vercel.app/)  
   **Tech**: React.js, Framer Motion, Tailwind CSS  
 
----
-📈 **Influencer Management Platform**
+- 📈 **Influencer Management Platform**
 
 A modern web application that allows brands to discover, filter, review, and manage influencer profiles efficiently. Built for real-world SaaS use cases, the platform features secure authentication, advanced search filters, favorites management, and detailed influencer metrics.
 
